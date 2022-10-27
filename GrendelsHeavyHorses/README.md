@@ -45,4 +45,4 @@ or, in UltimateCataclysm, you will find
 
 and add
 
-{ "id": "rid_mon_horse_draught", "fg": [ { "weight": 1, "sprite": 8869 }, { "weight": 1, "sprite": 8870 } ] }, (edited)
+{ "id": "rid_mon_horse_draught", "fg": [ { "weight": 1, "sprite": 8869 }, { "weight": 1, "sprite": 8870 } ] },
