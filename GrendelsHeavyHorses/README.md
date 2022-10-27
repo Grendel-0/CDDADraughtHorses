@@ -19,7 +19,7 @@ Thus, leaving speed unchanged for now seems reasonable, especially considering h
 
 3. Expanded war horse behaviour: assisting in combat, going home, coming when whistled for
 
-Addendum on tilesets not showing ridden draught horses
+#Addendum on tilesets not showing ridden draught horses
 
 Issue: while riding, your character looks like they are behind the horse
 
