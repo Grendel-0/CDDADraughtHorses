@@ -1,2 +1,0 @@
-# CDDADraughtHorses
-CDDADraughtHorses
